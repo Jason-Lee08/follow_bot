@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+bt_discovery/
+blink/
+ble_ibeacon/
+.vscode/
+client_daemon_log.txt
